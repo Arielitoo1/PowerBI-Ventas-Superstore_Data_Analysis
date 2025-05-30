@@ -1,16 +1,37 @@
-# 📊 Portafolio de Análisis de Datos - Ariel Valdes
+# 📊 Dashboard de Ventas y Rentabilidad - Power BI
 
-¡Hola! Soy Ariel Valdes un apasionado del análisis de datos, cuento con experiencia en herramientas como** SQL, Power BI (Creacion de reportes, Manejo avanzado de lenguaje DAX y Amplio uso de Power Query dentro de BI), Tableau, Excel ** y conocimiento en ** Python y R **. Este repositorio es una muestra de mi trabajo y crecimiento como analista, incluyendo dashboards, automatizaciones, exploración de datos y visualizaciones interactivas
-________________________________________________________________________________________________________________________________________________________________________________
-## 🚀 Habilidades Tecnicas
-🔶 SQL : Consultas Complejas, Joins, Funciones Analiticas
-🔶 Power BI: Modelado de datos, DAX, Power Query, Diseño de dashboards
-🔶 Excel: Tablas Dinamicas, Power Query, Manejo de Reporteria 
-🔶 Tableau: Visualización interactiva de datos.
-🔶 Python y R: Analisis Exploratorio y Visualizacion (Nivel Basico)
-________________________________________________________________________________________________________________________________________________________________________________
+Este proyecto presenta un dashboard profesional creado en Power BI Desktop, el cual analiza el rendimiento de ventas y ganancias utilizando el dataset de SuperStore.
 
-## 📬 Contacto:
+# 🧠 Objetivo
+Proveer visualizaciones interactivas que permitan a lideres de negocio tomar decisiones informadas sobre productos, segmentos y estrategias
+___________________________________________________________________________________________________________________________________________
+## 🛠️ Tecnologías Usadas
+🔶 Power BI Desktop
+🔶 Power Query
+🔶 DAX
+🔶 Excel / CSV
+___________________________________________________________________________________________________________________________________________
+📐 Métricas Calculadas
+•	Total de Ventas
+•	Total de Ganancias
+•	% de Crecimiento Mensual
+•	Ganancia Acumulada
+•	% de Descuento Promedio Ponderado
+___________________________________________________________________________________________________________________________________________
+📊 Visualizaciones Incluidas
+•	KPIs generales de negocio
+•	Gráfico de línea de ventas y ganancias por mes
+•	Mapa geográfico de ventas por región
+•	Segmentadores por año, categoría, segmento y región 
+___________________________________________________________________________________________________________________________________________
+📎Archivos Inclidos
+🔶'Analisis de Ventas.pbix' --> Dashboard Completo 
+🔶'Sample Superstore.csv' --> Dataset Utilizado 
+🔶'Documentacion de Proyecto' --> Documentación detallada
+🔶Imagenes del dashboard
+___________________________________________________________________________________________________________________________________________
+Autor: Ariel Valdes
+Contacto:
 📧 arielhuezo8@gmail.com
 💼 [LinkedIn] (www.linkedin.com/in/ariel-huezo-a50937259)
 
